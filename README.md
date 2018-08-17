@@ -23,6 +23,8 @@ Code Challenge for iOS Interview [#7](https://medium.com/@duruldalkanat/code-cha
 
 Which commands do I use in my terminal all day? [#8](https://medium.com/@duruldalkanat/which-commands-do-i-use-in-my-terminal-all-day-5787f0e9b830)
 
+Code Challenge for iOS Interview [#9](https://medium.com/ios-os-x-development/code-challenge-for-ios-interview-817c139891e4)
+
 
 ## React Native Developer recommendations
 
